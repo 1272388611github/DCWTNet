@@ -12,5 +12,5 @@ pip install -r requirements.txt
 3. Train and evaluate model. We provide the experiment scripts under the folder `./scripts/`. You can reproduce the experiment results as the following examples:
 
 ```
-bash ./scripts/long_term_forecast/ETT_script/TimesNet_ETTh1.sh
+bash ./scripts/ETTh1.sh
 ```
