@@ -14,3 +14,16 @@ pip install -r requirements.txt
 ```
 bash ./scripts/ETTh1.sh
 ```
+##  Citation
+Visit our paper at (https://www.sciencedirect.com/science/article/pii/S0950705125009578)
+Please cite the following paper if you use the code in your work:
+```
+@article{dou2025multivariate,
+  title={Multivariate time series forecasting based on time-frequency transform mixed convolution},
+  author={Dou, Jiaxin and Xun, Yaling and Yang, Haifeng and Cai, Jianghui and Li, Yanfeng and Han, Shuo},
+  journal={Knowledge-Based Systems},
+  pages={113912},
+  year={2025},
+  publisher={Elsevier}
+}
+```
